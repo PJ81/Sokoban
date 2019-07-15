@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  border: 0;
+  text-align: center;
+  font-family: 'Share Tech Mono', monospace;
+}
+
+canvas {
+  margin-top: 40px
+}
+
+#out p {
+  font-size: 30px;
+  margin-bottom: -30px
+}
+
+#copy {
+  font-size: 12px
+}
+
+#inst {
+  margin-top: 16px
+}
